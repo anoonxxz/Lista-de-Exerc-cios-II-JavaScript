@@ -1,0 +1,3 @@
+function inverterString(texto){
+    
+}
